@@ -64,7 +64,7 @@ export default function RootLayout({
     "@type": "Organization",
     name: "Encoder",
     url: "https://encoderai.in",
-    logo: "https://encoderai.in/favicon.svg",
+    logo: "https://encoderai.in/og-image.png",
     sameAs: [
       "https://www.linkedin.com/company/encoderai",
     ],
